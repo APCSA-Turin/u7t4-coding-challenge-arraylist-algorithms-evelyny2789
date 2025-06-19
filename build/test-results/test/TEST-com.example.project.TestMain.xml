@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="com.example.project.TestMain" tests="14" skipped="0" failures="0" errors="0" timestamp="2025-02-08T22:11:54" hostname="codespaces-b60820" time="0.192">
+<testsuite name="com.example.project.TestMain" tests="14" skipped="0" failures="0" errors="0" timestamp="2025-06-19T22:32:22.046Z" hostname="codespaces-1321de" time="0.097">
   <properties/>
-  <testcase name="testNotAlone()" classname="com.example.project.TestMain" time="0.085"/>
+  <testcase name="testNotAlone()" classname="com.example.project.TestMain" time="0.02"/>
   <testcase name="TestShiftLeft()" classname="com.example.project.TestMain" time="0.002"/>
   <testcase name="testParseSentence()" classname="com.example.project.TestMain" time="0.001"/>
   <testcase name="testRemoveDuplicates()" classname="com.example.project.TestMain" time="0.001"/>
-  <testcase name="testFix34()" classname="com.example.project.TestMain" time="0.001"/>
-  <testcase name="testMode()" classname="com.example.project.TestMain" time="0.001"/>
-  <testcase name="testSameFirstLast()" classname="com.example.project.TestMain" time="0.0"/>
+  <testcase name="testFix34()" classname="com.example.project.TestMain" time="0.003"/>
+  <testcase name="testMode()" classname="com.example.project.TestMain" time="0.004"/>
+  <testcase name="testSameFirstLast()" classname="com.example.project.TestMain" time="0.001"/>
   <testcase name="testSwapEnds()" classname="com.example.project.TestMain" time="0.001"/>
-  <testcase name="testZeroFront()" classname="com.example.project.TestMain" time="0.0"/>
-  <testcase name="testRemove3()" classname="com.example.project.TestMain" time="0.001"/>
-  <testcase name="testReverseArray()" classname="com.example.project.TestMain" time="0.0"/>
-  <testcase name="testInsertAfterI()" classname="com.example.project.TestMain" time="0.001"/>
-  <testcase name="testMoveBWords()" classname="com.example.project.TestMain" time="0.008"/>
-  <testcase name="testDuplicateUpperEnd()" classname="com.example.project.TestMain" time="0.006"/>
+  <testcase name="testZeroFront()" classname="com.example.project.TestMain" time="0.003"/>
+  <testcase name="testRemove3()" classname="com.example.project.TestMain" time="0.004"/>
+  <testcase name="testReverseArray()" classname="com.example.project.TestMain" time="0.002"/>
+  <testcase name="testInsertAfterI()" classname="com.example.project.TestMain" time="0.003"/>
+  <testcase name="testMoveBWords()" classname="com.example.project.TestMain" time="0.003"/>
+  <testcase name="testDuplicateUpperEnd()" classname="com.example.project.TestMain" time="0.009"/>
   <system-out><![CDATA[]]></system-out>
   <system-err><![CDATA[]]></system-err>
 </testsuite>
